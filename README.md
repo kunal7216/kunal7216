@@ -1,6 +1,6 @@
 # Kunal Kumar - Full Stack Developer
 
-![Profile Picture](link-to-your-profile-picture.jpg)
+![Profile Picture](C:\Users\kunal kumar\Downloads\eaKm5Uk6_400x400.jpg)
 
 👋 Hi there! I'm Kunal Kumar, a dynamic and passionate Full Stack Developer with a proven track record of creating exceptional web applications. I'm dedicated to delivering high-quality digital solutions that seamlessly blend form and function.
 
