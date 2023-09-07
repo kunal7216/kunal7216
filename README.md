@@ -22,16 +22,16 @@ I’m Kunal , a  full-stack engineer, creative coder and self-proclaimed designe
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kunal7216&repo=Rosa-Restaurant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href ="https://github.com/kunal7216/Shopping-View-Using-Vue">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kunal7216&repo=Shopping-View-Using-Vuet&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
 <a href="https://github.com/kunal7216/Mac-Book-Air-UI">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kunal7216&repo= Mac-Book-Air-UI&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+
+<br>
+
+<a href ="https://github.com/kunal7216/Shopping-View-Using-Vue">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kunal7216&repo=Shopping-View-Using-Vuet&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <br>
 
 <a href="https://github.com/kunal7216/Slider-For-Restaurant-">
