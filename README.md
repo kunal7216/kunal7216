@@ -1,4 +1,4 @@
-Hey there 👋
+<h1>Hey there 👋 </h1>
 ![mybanner](https://github.com/kunal7216/kunal7216/assets/112888767/f2b91844-9aa3-4768-97df-2b304616c84a)
 
 I’m Kunal , a  full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL
