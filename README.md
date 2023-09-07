@@ -1,6 +1,6 @@
 <h1 align="right">Hi 👋, I'm Kunal Kumar</h1>
 <h3 align="right">A passionate full stack developer from India</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal7216&show_icons=true&locale=en&layout=compact" alt="kunal7216" /></p>
+<p><img align="left" src="https://github-readme-profile-picture.vercel.app/api/top-langs?username=kunal7216&show_icons=true&locale=en&layout=compact" alt="kunal7216" /></p>
 
 
 
