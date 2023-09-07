@@ -1,7 +1,5 @@
-<p align="center">
- ![image](https://github.com/kunal7216/kunal7216/assets/112888767/c47fe2e9-340f-4228-be38-a7facba33bca)
+![image](https://github.com/kunal7216/kunal7216/assets/112888767/f316b672-1339-41ed-9acf-9902f62d3dc7)
 
-</p>
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
