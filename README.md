@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<p style="font-family:Courier; ">I'm, the epitome of versatility in the world of full-stack development. With a keen mastery of both frontend and backend frameworks, I effortlessly navigates the intricate web of APIs, crafting seamless digital experiences. My unwavering commitment to innovation and a holistic approach to coding make me a true trailblazer in the ever-evolving landscape of technology.</p>
+** <p style="font-family:Courier; ">I'm, the epitome of versatility in the world of full-stack development. With a keen mastery of both frontend and backend frameworks, I effortlessly navigates the intricate web of APIs, crafting seamless digital experiences. My unwavering commitment to innovation and a holistic approach to coding make me a true trailblazer in the ever-evolving landscape of technology.</p>**
 
 
 
