@@ -1,6 +1,6 @@
-<h1 align="right">Hi 👋, I'm Kunal Kumar</h1>
-<h3 align="right">A passionate full stack developer from India</h3>
-<p><img align="left" src="https://github-readme-profile-picture.vercel.app/api/top-langs?username=kunal7216&show_icons=true&locale=en&layout=compact" alt="kunal7216" /></p>
+<h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+<p>I'm, the epitome of versatility in the world of full-stack development. With a keen mastery of both frontend and backend frameworks, I effortlessly navigates the intricate web of APIs, crafting seamless digital experiences. My unwavering commitment to innovation and a holistic approach to coding make me a true trailblazer in the ever-evolving landscape of technology.p>
 
 
 
