@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="right">Hi 👋, I'm Kunal Kumar</h1>
+<h3 align="right">A passionate full stack developer from India</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal7216&show_icons=true&locale=en&layout=compact" alt="kunal7216" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal7216" alt="kunal7216" /></a> </p>
+
 
 - 🔭 I’m currently working on **E -Commerce Website**
 
