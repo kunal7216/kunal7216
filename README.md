@@ -111,4 +111,15 @@ I’m Kunal , a  full-stack engineer, creative coder and self-proclaimed designe
 
 <br>
 
-
+## Some Profiles Of Mine
+>
+<p align="left">
+<a href="https://codepen.io/kunal7216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunal7216" height="30" width="40" /></a>
+<a href="https://dev.to/kunal7216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kunal7216" height="30" width="40" /></a>
+<a href="https://twitter.com/kunal7216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunal7216" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunal-kumar-468415229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-kumar-468415229/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22535246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22535246" height="30" width="40" /></a>
+<a href="https://dribbble.com/kunal7216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kunal7216" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kk2239901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kk2239901" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kunal7216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunal7216" height="30" width="40" /></a>
+</p>
