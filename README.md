@@ -20,11 +20,11 @@ I’m Kunal , a  full-stack engineer, creative coder and self-proclaimed designe
 
 <br>
 
-<a href ="https://github.com/kunal7216/Rosa-Restaurant">
+<a href ="https://github.com/kunal7216/Aritificial-Intelligence-In-Diagnosis-.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kunal7216&repo=Rosa-Restaurant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/kunal7216/Mac-Book-Air-UI">
+<a href="https://github.com/kunal7216/College-Enquiry-Chatbot-2.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kunal7216&repo= Mac-Book-Air-UI&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -34,11 +34,11 @@ I’m Kunal , a  full-stack engineer, creative coder and self-proclaimed designe
 
 <br>
 
-<a href="https://github.com/kunal7216/Slider-For-Restaurant-">
+<a href="https://github.com/kunal7216/Betterfund-Crowdfunding-using-Blockchain.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kunal7216&repo=Slider-For-Restaurant-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/kunal7216/App-Menu-With-Lock-Screen">
+<a href="https://github.com/kunal7216/College-android-chatbot-master.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kunal7216&repo=App-Menu-With-Lock-Screen&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
