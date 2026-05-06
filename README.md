@@ -1,7 +1,7 @@
 <!-- Advanced Professional GitHub Profile README -->
 
 <div align="center">
-https://chatgpt.com/s/m_69fb623cd1d88191b84b165e04609f8d
+
 # Hi, I'm Kunal Kumar 👋
 
 ### Software Engineer Aspirant | Java Backend | AI Platforms | Distributed Systems | Cloud-Native Engineering
