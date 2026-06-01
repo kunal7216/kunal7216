@@ -77,15 +77,15 @@ RAG-based enterprise AI, and autonomous code agents.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kunal7216&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunal7216&theme=tokyonight" width="100%" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunal7216&theme=tokyonight" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunal7216&theme=tokyonight" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunal7216&theme=tokyonight" height="180" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal7216&theme=tokyo-night&hide_border=true" width="100%" />
 
