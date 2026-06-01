@@ -77,27 +77,19 @@ RAG-based enterprise AI, and autonomous code agents.
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=kunal7216&theme=tokyonight&hide_border=true" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunal7216&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunal7216&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunal7216&theme=tokyonight" height="180" />
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal7216&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
-
-<div align="center">
-
-| 📦 Repositories | 🔥 Total Commits | 💻 LeetCode Solved |
-|---|---|---|
-| 40+ | 1200+ | 500+ |
-
-</div>
-
----
-
-## Achievements
-
-- 🏆 **Oracle Cloud Infrastructure 2025** — AI Foundations Associate
-- 💻 **500+ LeetCode** problems solved across arrays, trees, graphs, DP
-- 📦 **1200+ commits** across 40+ repositories
-- 🎓 **B.Tech CSE** — Graphic Era Hill University (2022–2026)
-- 🌐 **IT Cell, NSS GEHU** — Led team of 6 to maintain official website
 
 ---
 
@@ -106,7 +98,7 @@ RAG-based enterprise AI, and autonomous code agents.
 - 🔍 Actively seeking **SDE / Backend / Full Stack / AI Platform** roles
 - 📍 Open to **Bangalore · Hyderabad · Pune · Remote**
 - ⚡ **Immediate joiner**
-- 📧 Reach me at **kunalkumarofficial10@gmail.com**
+- 📧 **kunalkumarofficial10@gmail.com**
 
 ---
 
