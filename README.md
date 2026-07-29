@@ -19,15 +19,18 @@
 
 ---
 
-## About Me
+## 🧠 About Me
 
-B.Tech CSE graduate (2026) who builds backend systems and AI platforms from scratch — not tutorials, not boilerplate.
 
-I've designed and shipped a **distributed job scheduler** with fault-tolerance and Kafka-backed delivery guarantees, a **RAG pipeline** with semantic search over pgvector running entirely on local LLMs, and an **autonomous code agent** that plans, writes, executes, and self-corrects using LangGraph. Every project was solo, end-to-end, and deliberately over-engineered — because that's how you actually learn distributed systems.
+🎓 B.Tech CSE graduate (2026) who builds backend systems and AI platforms from scratch — not tutorials, not boilerplate.
 
-My stack is **Java + Spring Boot** for backend, **Python + TypeScript** for AI — with real exposure to observability (OpenTelemetry, Grafana), container orchestration (Docker, Kubernetes), and event-driven architecture (Kafka). I don't just use tools; I understand why they exist and when not to use them.
+🛠️ I've designed and shipped a distributed job scheduler with fault-tolerance and Kafka-backed delivery guarantees, a RAG pipeline with semantic search over pgvector running entirely on local LLMs, and an autonomous code agent that plans, writes, executes, and self-corrects using LangGraph. Every project was solo, end-to-end, and deliberately over-engineered — because that's how you actually learn distributed systems.
 
-500+ LeetCode problems. Immediate joiner. Looking for a team that takes engineering seriously.
+⚙️ My stack is Java + Spring Boot for backend, Python + TypeScript for AI — with real exposure to observability (OpenTelemetry, Grafana), container orchestration (Docker, Kubernetes), and event-driven architecture (Kafka). I don't just use tools; I understand why they exist and when not to use them.
+
+🎯 500+ LeetCode problems. Immediate joiner. Looking for a team that takes engineering seriously.
+
+<p align="left"> <img src="https://img.shields.io/badge/LeetCode-Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"> </p>
 
 ---
 
